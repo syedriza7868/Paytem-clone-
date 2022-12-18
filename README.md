@@ -17,8 +17,8 @@
 
 - *It took me around 2 days to complete the webpage.*
 
-# Live link of projects:
- [Paytem clone]()
+
+# [Live Paytem clone](https://tranquil-daifuku-c2b39a.netlify.app/)
 
  ### Preview:
 
